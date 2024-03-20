@@ -33,8 +33,8 @@ Collaborate with a diverse network of like-minded professionals dedicated to ush
 
 Showcase your contributions and successes in the Cardano ecosystem through member events, Cardano developer conferences, marketing, website presence, periodic reports highlights and much more.
 
-### OSPO
+### Project Support Office
 
 For more information pertaining to Intersect and it's Open Source Projects, please find your way to the [pinned OPSO Repo](https://github.com/IntersectMBO/OSPO) under Intersect MBO Homepage.
 More information is also avaible at this URL: https://www.intersectmbo.org
-For all other items, please feel free to message the OSPO at ospo@intersectmbo.org
+For all other items, please feel free to message the Project Support Office at ospo@intersectmbo.org

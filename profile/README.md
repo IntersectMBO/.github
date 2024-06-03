@@ -2,8 +2,6 @@
 
 Intersect is a member-based organization for the Cardano ecosystem tasked with ensuring its continuity and future development. Bringing members together behind a shared vision, Intersect enables a more resilient, secure, transparent, and innovative Cardano ecosystem that puts members in the driving seat of Cardano’s future.
 
-### Intersect's five pillars
-
 At its core, Intersect will focus on ensuring, through its members, the future maintenance and development of Cardano. As a community governed blockchain, this means caring about both the technology and processes that enable technical progress and consensus through discourse and collaboration.
 
 ### Intersect has five pillars:

@@ -37,4 +37,4 @@ Showcase your contributions and successes in the Cardano ecosystem through membe
 
 For more information pertaining to Intersect and it's Open Source Projects, please find your way to the [pinned OSO Repo](https://github.com/IntersectMBO/OSPO) under Intersect MBO Homepage.
 More information is also avaible at this URL: https://www.intersectmbo.org
-For all other items, please feel free to message the Open Source Office at ospo@intersectmbo.org
+For all other items, please feel free to message the Open Source Office at oso@intersectmbo.org
